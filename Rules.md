@@ -26,7 +26,7 @@ We're all about having fun here, so our biggest goal is to keep the rules simple
 																									
 We believe in giving most people an extra opportunity to show good behavior, when it's warranted, even in spite of previous poor behavior. However, there are some actions that go beyond even our ability to forgive. The following are cases that will result in a permanent ban from all associated regions:																									
 																									
-- Distribution of identifying real-life information about others, also called "doxxing";																									
+- Distribution of identifying real-life information about others, also called "doxxing"																									
 - GPU crashing or any other griefing intended to damage a user's real-life PC hardware;																									
 - Creative content theft and distribution without creator permission (ripping textures, copybotting, abusing permissions bugs, etc);																									
 - Abuse of the Linden Labs AR (abuse report) system; that is, a bad-faith attempt to provoke a direct response from LL with the malicious intent to have someone's account suspended or banned.																									
