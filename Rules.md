@@ -133,7 +133,7 @@ These are the general combat rules for the sim. While this may seem like a lengt
 																									
 																									
 2. Deployable Quantity Limits																									
-- Interceptors are limited per person																									
+- Interceptors are limited to 1 per person																									
 																									
 																									
 3. Mines																									
