@@ -36,24 +36,24 @@ We believe in giving most people an extra opportunity to show good behavior, whe
 ## General Conduct																									
 These are the rules that cover your own conduct when visiting the sims, if you break these you will be banned.																									
 																									
-1. Harassment 																									
+1. **Harassment** 																									
 - While some level of competitive shit-talk is acceptable, being toxic crosses the line. If you aren't enjoying yourself, leave. Don't come here just to piss someone off or waste their time.																									
 - Targeting someone for their gender, religion, sexual preference or otherwise is not acceptable.																									
 																									
-2. Griefing 																									
+2. **Griefing** 																									
 - Griefing can be defined as producing any object in-world that intentionally causes script time to bog down or puts a strain on sim and/or users' FPS. Crashing the sim falls under this definition as well.																									
 - Threats of griefing will be treated as the action being threatened. We do not negotiate with terrorists													
 - This will automatically result in a 24-hour ban, minimum.																									
 																									
 																									
-3. Disruption & Picketing Rule 																									
+3. **Disruption & Picketing Rule**																									
 - If you or a group has been banned from a region, the other regions are not to be used as your personal soap box.																									
 - Attempting to engage or circumvent any administrative action will be handled accordingly.																									
 																									
-4. Sithacking																									
+4. **Sithacking**																									
 - Sithacking or using personal teleporters to access areas that are otherwise off-limits to the public is not allowed. The first offense will result in being shot. Subsequent offenses will result in offenders being placed on an autokiller or given a temporary timeout off-sim.																									
 																									
-5. Safe Zones 																									
+5. **Safe Zones** 																									
 - Marked zones outside of spawns are considered courtesy safe zones, firing out or into them, or utilizing indirect weaponry from within it (Mortars, etc) will result in your safezone being eliminated.																									
 - If attackers attempt to rush the spawn immediately on entry to take advantage of a slow defense response, they may be equally rushed.																									
 - Skybox areas not marked as being for combat are also considered within this rule, e.g: Build platform, Landing zone, etc.																									
@@ -63,93 +63,97 @@ These are the rules that cover your own conduct when visiting the sims, if you b
 																									
 																									
 																									
-## Combat Specific Rules																									
+## **Combat Specific Rules**																									
 These are the general combat rules for the sim. While this may seem like a lengthy list, exceptions can be made to these on a case by case basis. We are not interested in stifling inovation or preventing anyone from creating awesome things as that is within the spirit of the community and the game itself. Feel free to message a sim admin to see if things are all good!																									
 																									
-1. Movement Enhancers																									
+1. **Movement Enhancers**																									
 - Jetpacks are permitted but should not compete with Jets. If you are going to act like a jet, you will be treated like a jet																									
 - Breaches are permitted, see deployables.																									
 - Utilization of Coecion Style Airstrafes is not permitted																									
 																									
-2. Client-Side Assists 																									
+2. **Client-Side Assists** 																									
 - Usage of wireframe mode, display hitboxes, disabling of prejump, and avatar flight are prohibited. If comes to our attention that these tools are being used, you will be asked to disable them, Failure to comply with this request will result in placement on an auto returner or autokiller until compliance is met. Further refusal will result in a temporary timeout or ban.																									
 																									
-3. Gun Damage & Reloads																									
+3. **Gun Damage & Reloads**																									
 - We prefer to utilize partial damage, If you have that as an option in your guns that would be the preferred damage model used. If you would like to do a partial damage only fight please message the sim administration or OIC																									
 																									
 																									
-4. Raycast Weaponry 																									
+4. **Raycast Weaponry** 																									
 - Hybrid raycast is prohibited. 																									
 - Raycast must use a reasonable offset for that particular type of weapon and partial damage must be configured for any offsets.																									
 																									
 																									
-5. Explosives and Effects 																									
+5. **Explosives and Effects** 																									
 - All explosives and AoE effects are required to perform a raycast check to ensure that targets hit by it are not behind a wall or other obstruction.																									
 - Some weapons and deployables may have features that allow them to penetrate walls in small fields of effect, check with an admin.																									
 - Any persistent effect used can last no longer than 30 seconds and may not replicate itself.																									
 - Flak should be utilized on aircraft and anything deemed as an aircraft. Flak must use forward facing cones of less than 180 degrees																									
 																									
 																									
-6. Seeker Weaponry 																									
+6. **Seeker Weaponry** 																									
 - Seekers must provide a lock-on tone to the target.																									
 																									
-7. Riot Shields 																									
+7. **Riot Shields** 																									
 - Riot shields must not exceed 50 LBA HP and must go phantom or deactivate when firing.																									
 																									
-8. Exclusivity Clause																									
+8. **Exclusivity Clause**																									
 - A request to raid a specific group will be honored wiithout interference from the other attached groups																									
 																									
-9. The Lonewolf Clause																									
+9. **The Lonewolf Clause**																									
 - Be respectful to lonewolves, match their force.																									
 - If a lonewolf appears to be new to the community, it is everyones duty to help and guide them in how to SLMC.																									
 																									
 ## Vehicles and LBA																									
 																									
-1. Armored Systems																									
+1. **Armored Systems**																									
 - LBA and derivitives are the only permitted armor system to be used.																									
 - Tkoi/Veltech LBA Variants are not permitted																									
 																									
 																									
-2. Armored Ground Vehicles 																									
+2. **Armored Ground Vehicles** 																									
 - Tanks and similar vehicles are allowed up to 450 HP and must use an LBA version (LBA, LBA Light) that makes sense for its respective type.																									
 - Faster, lightweight vehicles should have light armor and lower HP, heavily-armored vehicles should move more slowly and potentially have larger HP																									
 																									
 																									
-3. Armored Aircraft 																									
+3. **Armored Aircraft** 																									
 - Aircraft armor is limited to 200HP for gunship-type craft and 500 HP for fleetships.																									
 - Aircraft with over 50LBA may not exceed 50m/s																									
 																									
-4. Repairs																									
+4. **Repairs**																									
 - Remote repairs are permitted, up to a maximum range of 10m																									
 - Automated self-repair is not permitted.																									
 																									
 																									
 ## Deployables																									
 																									
-1. Deployable Health Limits - A general limit of 50 HP applies.																									
+1. **Deployable Health Limits**
+
+- A general limit of 50 HP applies.																									
 - Walls are permitted up to a maximum HP of 100. To be more than this, the deployer must be required to stay nearby until it is fully built.																									
 - Interceptors should not exceed 25 HP.																									
 - Breaches should never exceed 25 HP Inverse LBA.																									
 																									
 																									
-2. Deployable Quantity Limits																									
+2. **Deployable Quantity Limits**																									
 - Interceptors are limited to 1 per person																									
 																									
 																									
-3. Mines																									
+3. **Mines**																									
 - Explosive Deployables are limited to 5 per person																									
 - Explosive Deployables must be able to die via LBA damage or being shot with a physical round																									
 																									
-4. Sit Barricades																									
+4. **Sit Barricades**																									
 - Each person gets 1 per life, unless it is moveable.																									
 - If it is moveable, it must use LBA light and have persistent memory of health that continues from the last health amount available before it was moved.																									
 - Sit Barricades must kill the operator when HP has been depleted																									
 																									
-5. Automated Turrets  																									
-- Automated turrets are permitted ONLY if they are connected to a destructible energy source.																									
-- Anti-air turrets must follow Seeker and Anti-Air Rules listed previously.																									
+5. **Automated Turrets**  																									
+- Automated Turrets are permitted ONLY if they are connected to a destructible energy source or have another balancing gimmick																							
+- Anti-air turrets must follow Seeker and Anti-Air Rules listed previously
+
+- Automated Turrets must use partial damage.
 																									
-6. NPCs 																									
+6. **NPCs** 																									
 - NPCs are permitted on a case-by-case basis.																									
 																									
 																									
