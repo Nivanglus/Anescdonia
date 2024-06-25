@@ -79,7 +79,7 @@ These are the general combat rules for the sim. While this may seem like a lengt
 																									
 																									
 4. **Raycast Weaponry** 																									
-- Hybrid raycast is prohibited. 																									
+- Hybrid Raycast that on every bullet rez also performs a raycast check is disallowed. Mixed belt style (Bullet, Bullet, RC, etc) are allowed.																								
 - Raycast must use a reasonable offset for that particular type of weapon and partial damage must be configured for any offsets.																									
 																									
 																									
@@ -107,7 +107,7 @@ These are the general combat rules for the sim. While this may seem like a lengt
 																									
 1. **Armored Systems**																									
 - LBA and derivitives are the only permitted armor system to be used.																									
-- Tkoi/Veltech LBA Variants are not permitted																									
+- Tkoi/Veltech LBA Variants are not permitted (This does not apply to NTLBA)																							
 																									
 																									
 2. **Armored Ground Vehicles** 																									
@@ -164,7 +164,7 @@ If an item is on this list, it was put there for a reason. Things may be added o
 																									
 - Large-scale AoE crowd control (for example, Chaos riot gas, etc)																									
 - SAC Guns are not Permitted. This falls under GPU Crashing Rules																									
-- Weapons scripted by known griefers will fall under the griefing rules																									
+- Weapons scripted to intentionally destablize physics or script time, or fall under the concept of "Aimbots" will fall under the griefing rules																								
 - Legacy gear that no longer fall under existing community standards																									
 																									
 																									
@@ -174,7 +174,8 @@ If an item is on this list, it was put there for a reason. Things may be added o
 																									
 																									
 ## Changelog																									
-- 05MAY2024 - Day 1 Rules for the Strip																									
+- 05MAY2024 - Day 1 Rules for the Strip
+- 25JUN2024 - Modifications made to Hybrid RC Rule, Clarification on Banned Equipment																								
 																									
 																									
 																									
